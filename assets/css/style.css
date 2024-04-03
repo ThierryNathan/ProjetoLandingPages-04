@@ -1,6 +1,10 @@
 @import url("https://gistcdn.githack.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css");
 
-h1 {
+* {
+    list-style: none;
+}
+
+header h1 {
     width: 505px;
     height: 48px;
     font-family: Gilroy;
@@ -9,3 +13,19 @@ h1 {
     font-weight: 700px;
     color: #161C2D;
 }
+
+#news
+{
+    background-color: #F4F7FA;
+    height: 80vh;
+}
+
+#news ul
+{
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    place-items: center;
+}
+
+
