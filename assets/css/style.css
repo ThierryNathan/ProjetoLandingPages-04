@@ -1,0 +1,96 @@
+
+@import url("https://gistcdn.githack.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css");
+
+* {
+    list-style: none;
+}
+
+#news {
+    background-color:#F4F7FA;
+    height: 80vh;
+}
+
+#news ul
+{
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    place-items: center;
+}
+
+header {
+    margin-left: 400px;
+    margin-bottom: 0%;
+}
+
+header h1 {
+    font-family: Gilroy;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -1.2000000476837158px;
+    text-align: center;
+    width: 505px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    color: #161C2D;
+}
+
+header p {
+    font-family: Gilroy;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.20000000298023224px;
+    text-align: center;
+    width: 503px;
+    height: 64px;
+    top: 65px;
+    left: 2px;
+    gap: 0px;
+    opacity: 0.7px;
+    color: #161C2D;
+}
+
+.card-text {
+    font-family: Gilroy;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: -0.10000000149011612px;
+    text-align: left;
+    width: 286px;
+    height: 26px;
+    top: 323px;
+    gap: 0px;
+    opacity: 0.7px;
+    color: #161C2D;
+    margin-left: 10%;
+}
+
+.card-title {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    width: 287px;
+    height: 64px;
+    top: 359px;
+    gap: 0px;
+    opacity: 0px;
+    color: #161C2D;
+    margin-left: 10%;
+}
+
+.card {
+    width: 350px;
+    height: 510px;
+    top: 4194px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #ffffff;
+
+}
