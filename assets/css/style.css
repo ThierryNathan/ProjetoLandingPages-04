@@ -1,0 +1,53 @@
+@import url("https://gistcdn.githack.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css");
+
+header h1 {
+    font-family: Gilroy;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -1.2000000476837158px;
+    text-align: center;
+    width: 505px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    color: #161C2D;
+}
+
+header p {
+    font-family: Gilroy;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.20000000298023224px;
+    text-align: center;
+    width: 503px;
+    height: 64px;
+    top: 65px;
+    left: 2px;
+    gap: 0px;
+    opacity: 0.7px;
+    color: #161C2D;
+}
+
+.card-text {
+    font-family: Gilroy;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: -0.10000000149011612px;
+    text-align: left;
+    width: 286px;
+    height: 26px;
+    top: 323px;
+    left: 32px;
+    gap: 0px;
+    opacity: 0.7px;
+    color: #161C2D;
+}
+
+
+
+
+
+
